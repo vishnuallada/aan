@@ -1,0 +1,10 @@
+body
+{
+background-color: darkcyan;
+}
+#btn
+{
+    background-color: crimson;
+    height: 30px;
+    width: 80px;
+}
